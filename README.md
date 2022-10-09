@@ -1,2 +1,0 @@
-# site
-Antique NFT Store
